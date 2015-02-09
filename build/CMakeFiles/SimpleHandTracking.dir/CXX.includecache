@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/param/final_yr_project/openCV_projects/SimpleHandTracking/main.cpp
+iostream
+-
+opencv2/highgui/highgui.hpp
+/home/param/final_yr_project/openCV_projects/SimpleHandTracking/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/param/final_yr_project/openCV_projects/SimpleHandTracking/opencv2/imgproc/imgproc.hpp
+

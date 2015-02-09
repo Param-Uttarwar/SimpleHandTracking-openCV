@@ -1,0 +1,1 @@
+/home/param/final_yr_project/openCV_projects/SimpleHandTracking/build/CMakeFiles/SimpleHandTracking.dir
