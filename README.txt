@@ -1,4 +1,4 @@
-SIMPLE HAND TRACKING in OpenCV
+SIMPLE HAND TRACKING in OpenCV (C++)
 
 Tested on  Microsoft Visual Studio (Windows32) and Cmake(Ubuntu 14.04)
 
